@@ -1,5 +1,1 @@
-hshs
-shshs
-shs
-Modification du fichiert
-
+Fichiers de config IDE
